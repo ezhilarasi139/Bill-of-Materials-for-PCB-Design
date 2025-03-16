@@ -4,10 +4,7 @@
 To prepare the Bill of Material for the given circuit.
 
 # Software’s required
-
 	Eagle software
-
-
 
 # Procedure
 
